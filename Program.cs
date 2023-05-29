@@ -121,15 +121,6 @@ for (int i = 0; i < numOfItems; i++)
     Console.WriteLine("_________________________________________________________________________________________________________________");
 }
 
-// To do: everything saves correctly but I need to fix the data structure sent to Foundry. I will probably need to create a foundryvtt item and serialize that
-//        also we need to set things to be lowercase or stuff like rarity doesn't get updated automatically
-//        if there's nothing in the source we should assume it's homebrew
-//        determine what to do with the backstory
-//        add option to add a curse onto the item and save that as an alternate version
-//        find a solution to why the app crashes when making 4+ requests
-//        set source to Homebrew if none is supplied
-//        determine why the option for both is returning only official materials 
-
 Console.Write("Do you want to export these items to json to be imported to Foundry? [y]/[n]: ");
 if (Console.ReadLine() == "y")
     MagicItem.exportJson(shopInventory);
