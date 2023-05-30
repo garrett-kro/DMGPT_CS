@@ -37,7 +37,7 @@ namespace DMGPT
                 MagicItem magicItem = JsonSerializer.Deserialize<MagicItem>(items[^1].Value);
 
                 if (includeBackstory)
-                {     
+                {
                     magicItem.backstory = generateMagicItemBackstory(chatBot, itemName: magicItem.name).Result;
                 }
 
@@ -62,7 +62,7 @@ namespace DMGPT
         {
             int price = 0;
 
-            switch(rarity.ToLower())
+            switch (rarity.ToLower())
             {
                 // Common (1d6 + 1) × 10 gp
                 case "common":
