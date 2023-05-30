@@ -24,17 +24,26 @@ There are two easy ways to build and run DMGPT
 > Some extra work may be needed to convert damage formulas after importing but this should be a good starting point
 > _________________________________________________________________________________________________________________
 > How many items are do you want in the shop? 2
+>
 > Should the items be official [o], homebrew [h] or both [b]? h
+>
 > What is the highest level of rarity for the items? Common [c], Uncommon [u], Rare [r], Very Rare [v] or Legendary [l]: r
+>
 > Do you want DMGPT to write a backstory for each item and how it got to the shop? [y]/[n]: y
 > Enchanting items...
 > _________________________________________________________________________________________________________________
 > Name: Amulet of the Crimson Phoenix (Homebrew)
+>
 > Rarity: Rare
+>
 > Type: Wondrous item
+>
 > Description: This amulet is adorned with a small ruby that glows like a flame. Once per day, the wearer can activate the amulet to transform into a giant phoenix for up to 1 hour. While in phoenix form, the wearer gains a flying speed of 90 feet and can deal an additional 2d10 fire damage with their attacks. Additionally, the wearer gains resistance to fire damage and can cast the spell Fireball (3rd level) once during their transformation. After the transformation ends, the wearer cannot use this ability again until the next dawn.
+>
 > Price: 12000 gp
+>
 > Source: Homebrew
+>
 > Backstory: Long ago, in a far-off land, there was a powerful sorceress named Xinghua. She was known throughout the land for her incredible magical abilities and her fierce loyalty to the kingdom. Xinghua was the personal advisor to the king, and she used her magic to protect the kingdom from all manner of threats.
 >
 > One day, Xinghua received a vision from the goddess of fire and rebirth, the Crimson Phoenix. The goddess told Xinghua that the kingdom was in grave danger, and that only a powerful artifact could save them. The artifact was the Amulet of the Crimson Phoenix, and it was said to contain the power of the goddess herself.
@@ -48,8 +57,11 @@ There are two easy ways to build and run DMGPT
 > And so, the Amulet of the Crimson Phoenix ended up in a magic item shop, waiting for someone to discover its true potential and use it to protect the kingdom once again.
 > _________________________________________________________________________________________________________________
 > Name: Ring of Spell Storing (Homebrew)
+>
 > Rarity: Rare
+>
 > Type: Ring
+>
 > Description: This silver ring has a deep blue gemstone set in the center. The ring has 3 charges, and regains all expended charges daily at dawn. While wearing the ring, you can cast a spell into it as an action, choosing one of the following options:
 >
 > 1. Store a Spell: When you cast a spell that targets only you, you can store the spell in the ring. The spell has no effect but is stored within the ring.
