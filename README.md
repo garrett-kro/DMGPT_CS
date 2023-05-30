@@ -12,6 +12,8 @@ DMGPT is a proof of concept to test if ChatGPT will be useful when running DMing
 
 ## Steps to run
 
+First find your API key from ChatGPT and insert it into the api key field in the App.config, after that you're ready to build and run DMGPT. There are some limitations when using the free version of the API key, ChatGPT limits the number of requests you can make quickly so with a free version you're limited to just 3 items but you can repeatedly run the program. 
+
 There are two easy ways to build and run DMGPT
 - Use Visual Studio and build through the UI
 - Through the sommand line by calling: 
