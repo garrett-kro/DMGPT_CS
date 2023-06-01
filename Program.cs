@@ -46,7 +46,7 @@ for (bool validSource = false; !validSource;)
             validSource = true;
             break;
         case "h":
-            itemSource = "from the offical DnD source material and update it to make it a new and unique homebrew item and label it as (Homebrew) at the end of the name";
+            itemSource = "and create an item that is not in the official dnd source material and label it as (Homebrew) at the end of the name";
             validSource = true;
             break;
         case "b":
